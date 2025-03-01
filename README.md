@@ -1,4 +1,4 @@
-# News-Wise - Omi Hackathon
+# News-Wise - Omi Hackathon (Dec'24)
 
 ## Inspiration
 In today's fast-paced information landscape, staying updated on topics of personal interest can be challenging. News wise is a tool to create a personalized, intelligent news aggregation that goes beyond traditional news readers. By using Omi, we aim to transform how users consume and interact with news content.
